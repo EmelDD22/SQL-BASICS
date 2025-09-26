@@ -1,0 +1,4 @@
+--FORMAT
+SELECT FORMAT(GETDATE(),'d','en-us')
+SELECT FORMAT(GETDATE(),'D','en-us')
+SELECT FORMAT(GETDATE(),'d','en-gb')
